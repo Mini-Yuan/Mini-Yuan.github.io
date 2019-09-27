@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-26T18:08:06.472Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>shiki</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/09/27/hello-world/"/>
+    <id>http://yoursite.com/2019/09/27/hello-world/</id>
+    <published>2019-09-26T18:02:15.049Z</published>
+    <updated>2019-09-26T18:08:06.472Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;人类都是贪婪的&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
