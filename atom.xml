@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-27T09:58:30.296Z</updated>
+  <updated>2019-09-28T08:44:41.633Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何在大公司生存</title>
+    <link href="http://yoursite.com/2019/09/28/how-live-better-in-company/"/>
+    <id>http://yoursite.com/2019/09/28/how-live-better-in-company/</id>
+    <published>2019-09-28T07:42:29.464Z</published>
+    <updated>2019-09-28T08:44:41.633Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;很多大公司都有 kpi 制度，而给你定 kpi
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>做一个平凡的人</title>
-    <link href="http://yoursite.com/2019/09/27/hello-world/"/>
-    <id>http://yoursite.com/2019/09/27/hello-world/</id>
+    <link href="http://yoursite.com/2019/09/27/became-ordinary-man/"/>
+    <id>http://yoursite.com/2019/09/27/became-ordinary-man/</id>
     <published>2019-09-26T18:02:15.049Z</published>
-    <updated>2019-09-27T09:58:30.296Z</updated>
+    <updated>2019-09-28T07:38:47.691Z</updated>
     
     <summary type="html">
     
